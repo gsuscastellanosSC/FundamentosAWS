@@ -38,6 +38,8 @@ https://platzi.com/clases/aws-cloud/
         Ejemplo de arquitectura con Elastic Beanstalk
     **Class#5**
         ¿Qué es EC2?
+    **Class#6**
+        Creando una instancia de EC2
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
