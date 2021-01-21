@@ -42,6 +42,9 @@ https://platzi.com/clases/aws-cloud/
         Creando una instancia de EC2
     **Class#7**
         Conectándonos a nuestra instancia desde Windows
+    **Class#8**
+        Conectándonos a nuestra instancia desde Linux
+            ssh-command: ssh -i name.pem user@ip
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
