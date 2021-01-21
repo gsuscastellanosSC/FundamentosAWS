@@ -48,6 +48,8 @@ https://platzi.com/clases/aws-cloud/
     **Class#9**
         Conectándonos a nuestra instancia desde OSX
             ssh-command: chmod 600 name.pem && ssh -i name.pem user@ip
+    **Class#10**
+        Subiendo un proyecto: Clonando un repositorio de GitHub a nuestra Instancia de EC2
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
