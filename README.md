@@ -52,6 +52,8 @@ https://platzi.com/clases/aws-cloud/
         Subiendo un proyecto: Clonando un repositorio de GitHub a nuestra Instancia de EC2
     **Class#11**
         Subiendo un proyecto a nuestra instancia de EC2: Ejecutar nuestro proyecto
+    **Class#12**
+        ¿Qué es Lambda y Serverless?
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
