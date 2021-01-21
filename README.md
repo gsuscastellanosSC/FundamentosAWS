@@ -31,6 +31,8 @@ https://platzi.com/clases/aws-cloud/
             Para crear tu cuenta de AWS debes entrar a aws.amazon.com, recuerda que para crear tu contraseña puedes usar passwordsgenerator.net.
             AWS dispone de dos programas que permiten a los clientes trasladar sus enseñanzas y esfuerzos de investigación a la nube y de este modo innovar más rápidamente y con un menor costo. Para aplicar a las becas de AWS entra a aws.amazon.com/es/grants.
             Cuando tengas tu cuenta registrada, entra a console.aws.amazon.com y tendrás acceso a la consola de amazon con todos los servicios disponibles.
+    **Class#3**
+        Introducción a la oferta de servicios de AWS y sus aplicaciones
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
