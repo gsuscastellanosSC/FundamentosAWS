@@ -36,6 +36,8 @@ https://platzi.com/clases/aws-cloud/
 **2. Introducción a la oferta de AWS y sus interacciones**
     **Class#4**
         Ejemplo de arquitectura con Elastic Beanstalk
+    **Class#5**
+        ¿Qué es EC2?
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
