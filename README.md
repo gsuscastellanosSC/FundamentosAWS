@@ -50,6 +50,8 @@ https://platzi.com/clases/aws-cloud/
             ssh-command: chmod 600 name.pem && ssh -i name.pem user@ip
     **Class#10**
         Subiendo un proyecto: Clonando un repositorio de GitHub a nuestra Instancia de EC2
+    **Class#11**
+        Subiendo un proyecto a nuestra instancia de EC2: Ejecutar nuestro proyecto
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
