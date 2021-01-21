@@ -57,6 +57,9 @@ https://platzi.com/clases/aws-cloud/
             Creando una función Lambda
     **Class#13**
         Creando una función Lambda
+**3. Elastic Beanstalk**
+    **Class#14**
+        Conociendo Elastic Beanstalk
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
