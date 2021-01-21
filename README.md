@@ -18,8 +18,7 @@ https://platzi.com/clases/aws-cloud/
                 => Cómputo científico.
                 => E-commerce.
                 => Ambientes Híbridos.
-                => Blockchain.
-            
+                => Blockchain.        
             Ventajas de AWS:
                 => Cero inversión inicial, muchos servicios son gratis el primer año
                 => Usa lo que necesites, apaga lo que no
@@ -27,6 +26,13 @@ https://platzi.com/clases/aws-cloud/
                 => Velocidad cuando la necesitas
                 => Si no lo usas, no lo pagas
                 => Cobertura mundial
+    **Class#2**
+        ¿Cómo puedo empezar a usar AWS?
+            Para crear tu cuenta de AWS debes entrar a aws.amazon.com, recuerda que para crear tu contraseña puedes usar passwordsgenerator.net.
+            AWS dispone de dos programas que permiten a los clientes trasladar sus enseñanzas y esfuerzos de investigación a la nube y de este modo innovar más rápidamente y con un menor costo. Para aplicar a las becas de AWS entra a aws.amazon.com/es/grants.
+            Cuando tengas tu cuenta registrada, entra a console.aws.amazon.com y tendrás acceso a la consola de amazon con todos los servicios disponibles.
 **Links**
+    Secure Password Generator:
+        https://passwordsgenerator.net/
     Programas de AWS para investigación y educación:
         https://aws.amazon.com/es/grants/
