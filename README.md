@@ -40,6 +40,8 @@ https://platzi.com/clases/aws-cloud/
         ¿Qué es EC2?
     **Class#6**
         Creando una instancia de EC2
+    **Class#7**
+        Conectándonos a nuestra instancia desde Windows
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
