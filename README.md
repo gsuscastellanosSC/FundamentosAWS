@@ -33,6 +33,9 @@ https://platzi.com/clases/aws-cloud/
             Cuando tengas tu cuenta registrada, entra a console.aws.amazon.com y tendrás acceso a la consola de amazon con todos los servicios disponibles.
     **Class#3**
         Introducción a la oferta de servicios de AWS y sus aplicaciones
+**2. Introducción a la oferta de AWS y sus interacciones**
+    **Class#4**
+        Ejemplo de arquitectura con Elastic Beanstalk
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
