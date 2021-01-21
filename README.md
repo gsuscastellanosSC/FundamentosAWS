@@ -54,6 +54,9 @@ https://platzi.com/clases/aws-cloud/
         Subiendo un proyecto a nuestra instancia de EC2: Ejecutar nuestro proyecto
     **Class#12**
         ¿Qué es Lambda y Serverless?
+            Creando una función Lambda
+    **Class#13**
+        Creando una función Lambda
 **Links**
     Secure Password Generator:
         https://passwordsgenerator.net/
