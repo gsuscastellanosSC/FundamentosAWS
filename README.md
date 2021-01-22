@@ -62,6 +62,8 @@ https://platzi.com/clases/aws-cloud/
         Conociendo Elastic Beanstalk
     **Class#15**
         Creando un ambiente en Elastic Beanstalk
+    **Class#16**
+        Almacenamiento - S3
 **Links**
     aws-platzi-python:
         https://github.com/mauropm/aws-platzi-python/tree/elastic-beanstalk
