@@ -76,6 +76,15 @@ https://platzi.com/clases/aws-cloud/
             AWS creó un producto llamado RDS que optimiza el funcionamiento de un motor de bases de datos. Este servicio incluye mantenimiento a tu base de datos, respaldos diarios, optimización para tu tipo de uso, etc.
             RDS tiene varias opciones de motores de bases de datos, como: Aurora PG, Aurora MySQL, MySQL, MariaDB, PostgreSQL, Oracle y Microsoft SQL Server.
             Recuerda que AWS te da 750 horas de servicio gratis de RDS, incluyendo cualquiera de los motores de bases de datos.
+    **Class#20**
+        Conociendo RDS PG
+            AWS implementa el motor de PostgreSQL (RDS PG) en una instancia optimizada para correr con la máxima eficacia.
+            RDS PG incluye, por omisión, tareas de optimización como vacuum, recuperación de espacio en el disco duro y planificación de queries. Tambien te permite hacer respaldos diarios (o incluso más seguido) de tu base de datos.
+            Otras ventajas de RDS PG son:
+                => Cifrado a tu elección, tu base de datos puede estar cifrada en disco duro
+                => Migración asistida: RDS PG tiene mecanismos que te ayudan a migrar tu información en caso de que tu ya cuentes con una base de datos con otro proveedor.
+                => Alta disponibilidad: RDS PG te permite fácilmente configurar un ambiente de alta disponibilidad al ofrecerte diversas zonas para tu base de datos.
+                => Recuerda que Amazon RDS provee de seguridad por omisión tan alta que no podrás conectarte a tu DB hasta que explícitamente lo permitas.
 **Links**
     aws-platzi-python:
         https://github.com/mauropm/aws-platzi-python/tree/elastic-beanstalk
