@@ -70,6 +70,12 @@ https://platzi.com/clases/aws-cloud/
         Almacenamiento con Glacier: Contenido duradero:
             AWS tiene un tipo de almacenamiento más económico, pero también más lento que S3 llamado Glacier. Es una muy buena opción si tienes que guardar algún tipo de archivo histórico, como documentos de transacciones de años pasados.
             Glacier podrá entregarte tus datos y/o archivos con tiempos de entre 2 y 15 minutos por archivo.
+**4. Bases de Datos**
+    **Class#19**
+        Bases de Datos - RDS Aurora PG
+            AWS creó un producto llamado RDS que optimiza el funcionamiento de un motor de bases de datos. Este servicio incluye mantenimiento a tu base de datos, respaldos diarios, optimización para tu tipo de uso, etc.
+            RDS tiene varias opciones de motores de bases de datos, como: Aurora PG, Aurora MySQL, MySQL, MariaDB, PostgreSQL, Oracle y Microsoft SQL Server.
+            Recuerda que AWS te da 750 horas de servicio gratis de RDS, incluyendo cualquiera de los motores de bases de datos.
 **Links**
     aws-platzi-python:
         https://github.com/mauropm/aws-platzi-python/tree/elastic-beanstalk
