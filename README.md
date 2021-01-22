@@ -64,8 +64,12 @@ https://platzi.com/clases/aws-cloud/
         Creando un ambiente en Elastic Beanstalk
     **Class#16**
         Almacenamiento - S3
-    **Class#17**    
+    **Class#17**
         Almacenamiento con S3: Contenido Estatico
+    **Class#18**
+        Almacenamiento con Glacier: Contenido duradero:
+            AWS tiene un tipo de almacenamiento más económico, pero también más lento que S3 llamado Glacier. Es una muy buena opción si tienes que guardar algún tipo de archivo histórico, como documentos de transacciones de años pasados.
+            Glacier podrá entregarte tus datos y/o archivos con tiempos de entre 2 y 15 minutos por archivo.
 **Links**
     aws-platzi-python:
         https://github.com/mauropm/aws-platzi-python/tree/elastic-beanstalk
