@@ -60,7 +60,11 @@ https://platzi.com/clases/aws-cloud/
 **3. Elastic Beanstalk**
     **Class#14**
         Conociendo Elastic Beanstalk
+    **Class#15**
+        Creando un ambiente en Elastic Beanstalk
 **Links**
+    aws-platzi-python:
+        https://github.com/mauropm/aws-platzi-python/tree/elastic-beanstalk
     Secure Password Generator:
         https://passwordsgenerator.net/
     Programas de AWS para investigación y educación:
